@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="uno-verde2" size="0.150000 0.248507" />
+    <ImageTarget name="uno-amarelo3" size="0.150000 0.235668" />
+    <ImageTarget name="uno-amarelo2" size="0.150000 0.244355" />
+    <ImageTarget name="uno-vermelho" size="0.150000 0.236598" />
+    <ImageTarget name="uno-azul" size="0.150000 0.238636" />
+    <ImageTarget name="uno-verde" size="0.150000 0.239630" />
+    <ImageTarget name="uno-quatro" size="0.150000 0.239583" />
+    <ImageTarget name="uno-amarelo" size="0.150000 0.239468" />
+  </Tracking>
+</QCARConfig>
